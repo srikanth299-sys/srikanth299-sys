@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Srikanth 👋
 
-<!--
-**srikanth299-sys/srikanth299-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a B.E. CSE student at Chaitanya Bharathi Institute of Technology (CBIT), interested in building practical software solutions and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Full-Stack Development and Software Engineering
+
+🐍 Working with Python and Java fundamentals
+
+🌐 Exploring HTML, CSS, JavaScript, React.js and Node.js
+
+🔐 Interested in Cybersecurity and IoT
+
+📚 Practicing Data Structures and Algorithms
+
+🚀 Building projects to strengthen my development skills
+
+🛠️ Technical Skills
+
+Languages: Python, Java, JavaScript
+Frontend: HTML, CSS, Bootstrap, React.js
+Backend: Node.js, Express.js
+Tools: Git, GitHub
+Other Interests: Cybersecurity, IoT, Machine Learning
